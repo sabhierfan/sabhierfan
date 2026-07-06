@@ -52,9 +52,9 @@ I am an **AI Engineer and Full-Stack Developer** specializing in architecting hi
 
 * 🤖 **Vicibot** 
   * A containerized browser automation framework running 100+ autonomous bots concurrently. Features custom Linux OS-level virtual microphone routing for real-time voice streaming and a decoupled dual-LLM pipeline for sub-second transcription and intent processing.
-* 🎙️ **Voice Cloning Engine** 
+* 🎙️ **Voice Cloning Engine (Voxely)** [[Live Demo](https://voxely.space/)]
   * A real-time Retrieval-based Voice Conversion (RVC v2) engine replacing third-party voice synthesis APIs. Uses HiFi-GAN vocoders and ContentVec feature extraction pipelines for high-fidelity voice cloning using just 2 hours of clean audio data.
-* 🏥 **MediNova** 
+* 🏥 **MediNova** [[Live Demo](https://medinova.21108124ml.workers.dev/)]
   * A HIPAA-compliant EMR portal using client-side zero-knowledge AES-GCM encryption, integrating a Google Gemini-based symptom-triage engine and appointment no-show predictive modeling.
 * 📅 **Zabtime** 
   * Timetable scheduler powered by a custom Python heuristic-based constraint satisfaction algorithm, integrated with LIME/SHAP for explainable scheduling decisions.
