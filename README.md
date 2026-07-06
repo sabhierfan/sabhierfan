@@ -50,9 +50,11 @@ I am an **AI Engineer and Full-Stack Developer** specializing in architecting hi
 
 ### 🚀 Key Projects
 
+* 🚀 **Voxely** [[Live SaaS Product](https://voxely.space/)]
+  * Your AI-powered SaaS application. (Feel free to customize this description!)
 * 🤖 **Vicibot** 
   * A containerized browser automation framework running 100+ autonomous bots concurrently. Features custom Linux OS-level virtual microphone routing for real-time voice streaming and a decoupled dual-LLM pipeline for sub-second transcription and intent processing.
-* 🎙️ **Voice Cloning Engine (Voxely)** [[Live Demo](https://voxely.space/)]
+* 🎙️ **Voice Cloning Engine** 
   * A real-time Retrieval-based Voice Conversion (RVC v2) engine replacing third-party voice synthesis APIs. Uses HiFi-GAN vocoders and ContentVec feature extraction pipelines for high-fidelity voice cloning using just 2 hours of clean audio data.
 * 🏥 **MediNova** [[Live Demo](https://medinova.21108124ml.workers.dev/)]
   * A HIPAA-compliant EMR portal using client-side zero-knowledge AES-GCM encryption, integrating a Google Gemini-based symptom-triage engine and appointment no-show predictive modeling.
