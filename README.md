@@ -1,39 +1,27 @@
 # Syed Abdul Hadi Sabih
-### AI Engineer & Full-Stack Developer
 
-I am an **AI Engineer and Full-Stack Developer** specializing in architecting highly scalable, production-grade applications. My expertise lies in designing conversational AI suites, low-latency multi-LLM workflows, Retrieval-Augmented Generation (RAG) engines, and real-time audio/voice cloning. 
+Real-time voice AI engineer. WebRTC, sub-second turn latency, self-hosted STT/TTS pipelines, RAG.
 
----
+### Projects
 
-### 👨‍💻 About Me
+**Voxely** [[Live SaaS Product](https://voxely.space/)]
+- **Problem**: High-latency, unnatural conversational voice agents degrade customer experience.
+- **Stack**: WebRTC, FastAPI, React/TS, custom STT/TTS pipelines.
+- **Hard part**: Orchestrating multi-model pipelines over WebRTC while maintaining strict sub-second turn latency.
+- **Result**: Live production SaaS successfully handling 100+ concurrent live voice-AI calls.
 
-* 🚀 I bridge the gap between cutting-edge AI research and robust full-stack ecosystems.
-* 🛠️ Active freelancer building **Production voice-AI systems handling 100+ concurrent live calls** across medical diagnostics, financial security, and academic automation.
+**Vicibot**
+- **Problem**: Scaling browser-based voice automation without physical hardware bottlenecks.
+- **Stack**: Python, Docker, Linux audio routing, dual-LLM architecture.
+- **Hard part**: Engineering custom Linux OS-level virtual microphone routing for real-time headless audio streaming.
+- **Result**: Containerized framework successfully running 100+ autonomous voice bots concurrently.
 
----
+**Voice Cloning Engine**
+- **Problem**: Third-party voice synthesis APIs are expensive and introduce network latency to real-time pipelines.
+- **Stack**: PyTorch, RVC v2, HiFi-GAN vocoders, ContentVec.
+- **Hard part**: Optimizing feature extraction and vocoder inference for strict real-time execution.
+- **Result**: Self-hosted, high-fidelity voice cloning engine trained on just 2 hours of clean audio data.
 
-### 🛠️ Tech Stack & Skills
+### Contact
 
-Python · PyTorch · FastAPI · WebRTC · Docker · React/TS
-
----
-
-### 🚀 Key Projects
-
-* 🚀 **Voxely** [[Live SaaS Product](https://voxely.space/)]
-  * An AI-powered SaaS application.
-* 🤖 **Vicibot** 
-  * A containerized browser automation framework running 100+ autonomous bots concurrently. Features custom Linux OS-level virtual microphone routing for real-time voice streaming and a decoupled dual-LLM pipeline for sub-second transcription and intent processing.
-* 🎙️ **Voice Cloning Engine** 
-  * A real-time Retrieval-based Voice Conversion (RVC v2) engine replacing third-party voice synthesis APIs. Uses HiFi-GAN vocoders and ContentVec feature extraction pipelines for high-fidelity voice cloning using just 2 hours of clean audio data.
-* 🏥 **MediNova** [[Live Demo](https://medinova.21108124ml.workers.dev/)]
-  * A HIPAA-compliant EMR portal using client-side zero-knowledge AES-GCM encryption, integrating a Google Gemini-based symptom-triage engine and appointment no-show predictive modeling.
-* 📅 **Zabtime** 
-  * Timetable scheduler powered by a custom Python heuristic-based constraint satisfaction algorithm, integrated with LIME/SHAP for explainable scheduling decisions.
-
----
-
-### 🤝 Let's Connect
-
-* 📧 Email: [sabhi@voxely.space](mailto:sabhi@voxely.space)
-* 📍 Location: Islamabad, Pakistan
+- **Email**: [sabhi@voxely.space](mailto:sabhi@voxely.space)
