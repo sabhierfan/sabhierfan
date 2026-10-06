@@ -37,7 +37,7 @@ Real-time voice AI engineer — WebRTC, sub-second turn latency, self-hosted STT
 - **Designer Portfolio** — Portfolio site built for a visual and brand designer client. [[Live Demo](https://saad-portfolio.21108124ml.workers.dev)]
 
 ### NDA
-- more projects Ai , web based under NDA 
+- More client & enterprise projects across AI, web, and mobile — under NDA.
 
 ### Contact
 
