@@ -36,6 +36,9 @@ Real-time voice AI engineer — WebRTC, sub-second turn latency, self-hosted STT
 - **Earth Engineering Associates** — Website for a geotechnical/geological engineering consulting firm. [[Live Demo](https://earth-engineering-website.pages.dev)]
 - **Designer Portfolio** — Portfolio site built for a visual and brand designer client. [[Live Demo](https://saad-portfolio.21108124ml.workers.dev)]
 
+### NDA
+- more projects Ai , web based under NDA 
+
 ### Contact
 
 - **Email**: [sabhi@voxely.space](mailto:sabhi@voxely.space)
